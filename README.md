@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm Ryan, a professional business intelligence analyst
+
+Currently I'm working on transitioning into the data industry. I have 12+ years experience in the automobile insurance claims industry and I'm looking to apply that knowledge to help make better business decisions. 
+
+Some facts about me:
+- I have been rock climbing for the past 15 years. I hope to continue to push my limits and achieve my personal goal of climbing a V7 outdoors.
+- I've just started learning how to bake bread and I'm looking for new ways to improve the quality of my bread.
+- My goals for 2024: transition to the data industry and get a job where I can continue to grow.
 
 <!--
 **Ryguy368/Ryguy368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
